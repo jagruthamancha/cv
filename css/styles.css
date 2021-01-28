@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+    
+}
+h1{
+    color: coral;
+}
+
+.mass{
+    background-color: aliceblue;
+}
+
+.circular{
+    border-radius: 100%;
+}
